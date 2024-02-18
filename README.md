@@ -3,7 +3,7 @@ I've listed some facts here:
 - You **visited** my profile. 👀
 - I'm currently **studying** Data Science at the Pontifical Catholic University of Chile. 🧑‍🎓
 - I **love** sciences. ❤️
-- I'm currently **working** on Manim stuff, like [Manim Studio](https://github.com/MathItYT/manim-studio).
+- I'm currently **working** on an alternative to Manim written in Rust, [MathLikeAnim-rs](https://github.com/MathItYT/mathlikeanim-rs). 🔥
 
 If you stayed seeing my profile, thank you! You can contribute to one of my projects or become a sponsor, any of these options can help me greatly. 💗
 
